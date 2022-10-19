@@ -1,0 +1,300 @@
+[33mcommit faee8f03b8d7c4c81c53fc77412e7f6df44afeef[m[33m ([m[1;36mHEAD -> [m[1;32maudio[m[33m)[m
+Merge: 05d8b3f 69db322
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Wed Oct 5 08:00:58 2022 +0700
+
+    Merge branch 'dev' of github.com:ducanh1908/life-music-client into dev
+
+[33mcommit 05d8b3fe268104653595c9c3dcb6853a3bdf54bd[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Wed Oct 5 07:55:59 2022 +0700
+
+    add song
+
+[33mcommit 69db322c19853b1d5f3c0cbc9d7eb31a1e934606[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Wed Oct 5 07:54:22 2022 +0700
+
+     playlist edit
+
+[33mcommit bee113bdb65ae78fb8175f5ff9abc4ec094f20d5[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 22:16:03 2022 +0700
+
+    play music
+
+[33mcommit 0f01adf802c6a1d4c78e8844b49887d07b2f689e[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Tue Oct 4 20:31:42 2022 +0700
+
+    playlist demo
+
+[33mcommit c77d32aa387ce1e83cb6242a78de5c5bf1fd0fd9[m
+Merge: 58ebf2c a699e7c
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Tue Oct 4 14:04:48 2022 +0700
+
+     add playlist
+
+[33mcommit 00f00c2a3c45de95d4ca16689c294df95140d0d2[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 14:03:23 2022 +0700
+
+    update home
+
+[33mcommit 58ebf2cf4397b4b5f5e4f14984f0cfad5a2733e5[m
+Merge: a07684d d939060
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Tue Oct 4 10:49:05 2022 +0700
+
+    merge dev
+
+[33mcommit a699e7c150686a9886c1b5494af7065f147b364e[m
+Merge: d939060 832a38e
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 10:47:40 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit 832a38e0355d1e259e8a36cc04186259f0ae9ffd[m[33m ([m[1;31morigin/song[m[33m)[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 10:47:05 2022 +0700
+
+    create play list done
+
+[33mcommit a07684da7d89a02653276364d60550f05e2769b5[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Tue Oct 4 09:03:05 2022 +0700
+
+    new branch
+
+[33mcommit d93906038c5f78e5e36e957dc07f5e11c3081f60[m
+Merge: 2a2a56b d8e0782
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 08:46:51 2022 +0700
+
+    Merge branch 'song' into dev a
+
+[33mcommit d8e0782e18f1af7b2005043a688b87e0452b69bd[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 08:44:02 2022 +0700
+
+    update playlist
+
+[33mcommit ee776777542149561817a4d78f94f8e4a1367ddf[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 00:32:01 2022 +0700
+
+    fix button save profile
+
+[33mcommit 5007c72a1a0ffe77e69e4577fd9159ae2a7a7e1b[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Tue Oct 4 00:29:08 2022 +0700
+
+    fix input login register logo navbar
+
+[33mcommit 2a2a56b012375576fc9aeb4272b7ad44e87de63f[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 13:48:52 2022 +0700
+
+    fix song
+
+[33mcommit e75662985fe31bea0a5fd952dacebeb1b03e67a7[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:44:28 2022 +0700
+
+    update profile
+
+[33mcommit a3cda8925b41e491ef13d56aa0e07becbc2d0027[m
+Merge: 22a0ab1 9acf1f5
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:41:37 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit 9acf1f55bcdb56ad172f15bcd94c9d3c8cc6f807[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:41:22 2022 +0700
+
+    NA
+
+[33mcommit 22a0ab10b7cfb0f48f10226e1631382ab7192340[m
+Merge: b12ad0e b0d92a8
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:33:49 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit b0d92a8720a944bb71f545ece96b86e4e9ded5e7[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:30:42 2022 +0700
+
+    song update
+
+[33mcommit b12ad0ebc3ec4ddc7d8326109413f7589d9f6851[m
+Merge: 85a547c 9478e11
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:11:44 2022 +0700
+
+    Merge branch 'dev' of github.com:ducanh1908/life-music-client into dev
+
+[33mcommit 85a547ceb6d1e27b8f7861d9c8ca3a205e1bb8da[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:06:52 2022 +0700
+
+    fix
+
+[33mcommit 3b00e425892fe55bab9be67395c6cebbb408dd64[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 10:05:56 2022 +0700
+
+    fix router
+
+[33mcommit 9478e119f80cf843372fe11c9a40d38dbeefde69[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Mon Oct 3 10:05:18 2022 +0700
+
+     fix body
+
+[33mcommit 1c50280b71fff6ed19e0314c3708cdce362ea0dd[m
+Merge: 4dfe555 dce0eb0
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:56:04 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit dce0eb0487f923636880b56e3dec8898aad28711[m
+Merge: 2a55194 7e62eba
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:48:54 2022 +0700
+
+    Merge branch 'dev' of github.com:ducanh1908/life-music-client into song
+
+[33mcommit 4dfe55543d00ec8d25604a468b35138aeecb2d2a[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:48:00 2022 +0700
+
+    check loi
+
+[33mcommit 3f259fceb403d78afd2524aae347cf8ef9c905bb[m
+Merge: 4748b14 2a55194
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:45:17 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit 2a55194e195350451ab59981226d08229b015a29[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:44:43 2022 +0700
+
+    show list song
+
+[33mcommit 7e62eba943b44de4188aa549446e56aa39e6f505[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Mon Oct 3 09:34:43 2022 +0700
+
+     fix information
+
+[33mcommit 4748b14e00e319d3ab270ac7263003a7931ca883[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:14:14 2022 +0700
+
+    update dev
+
+[33mcommit b78ad54a6c0ca1c6f350796d5c2911e0ab15e5e4[m
+Merge: 868baac 479ece6
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:07:27 2022 +0700
+
+    Merge branch 'song' into dev
+
+[33mcommit 868baacdd2329e0ac7d17f2ad17525fd4071de6d[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:05:05 2022 +0700
+
+    fix content
+
+[33mcommit 63fba83a99f7637b31decb9651f259900b03a4fb[m
+Merge: e479c64 00cde0d
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 09:01:21 2022 +0700
+
+    pull dev
+
+[33mcommit 479ece60926463e1695a1d3740b6386554f9c05c[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 08:51:03 2022 +0700
+
+    update music
+
+[33mcommit 00cde0d385fb400a5e7511d7aceeccd1242c3a0c[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Mon Oct 3 08:23:28 2022 +0700
+
+     merge dev
+
+[33mcommit 3fb501164a42d57fb16f3e328e60b3960e17f3b4[m[33m ([m[1;31morigin/check[m[33m, [m[1;32mcheck[m[33m)[m
+Merge: 976efd3 a525e35
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Mon Oct 3 00:37:43 2022 +0700
+
+    check
+
+[33mcommit e479c64c5260843dfbf8d2f16e7d72dc3f29705c[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Sun Oct 2 20:34:35 2022 +0700
+
+    router
+
+[33mcommit 2db13a77349f42c14bde76479ac35f8035a2de24[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Sun Oct 2 20:32:56 2022 +0700
+
+     up avatar done
+
+[33mcommit 5f23ae151b24a961edf5c63c34c71db7ba3caddb[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Sun Oct 2 20:17:46 2022 +0700
+
+     fix change email phone password done
+
+[33mcommit 5486de2ebfa8fd045965c86139b692f0befb1eaf[m
+Merge: e387508 a525e35
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Sun Oct 2 19:45:49 2022 +0700
+
+     change password
+
+[33mcommit e387508d2ea785e668727d79dd796e93b9234b9b[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Sun Oct 2 16:34:53 2022 +0700
+
+     pull dev
+
+[33mcommit a525e3549af4eb8d5c5425649b79b7d81146be2e[m
+Merge: 9f31fa5 b3ab8fc
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Sun Oct 2 16:19:57 2022 +0700
+
+    update profile
+
+[33mcommit 9f31fa58f4e58b71cd2a74e46f1d653b4d536299[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Sun Oct 2 15:55:12 2022 +0700
+
+    add background login register
+
+[33mcommit b3ab8fc427c7cf06ff0e55b376f9ecae05c0de00[m
+Author: quyendch11 <quyendch11@gmail.com>
+Date:   Sun Oct 2 15:13:41 2022 +0700
+
+     change password done
+
+[33mcommit 976efd3b4fb1712e938406030f7553a08ef8ede1[m
+Author: DucAnh <ducanh.le1908@gmail.com>
+Date:   Sun Oct 2 12:50:13 2022 +0700
+
+    reset commit
+
+[33mcommit e48f7cf4194ee72fecede83874f46da3184f8332[m
+Author: quyendch11 <
